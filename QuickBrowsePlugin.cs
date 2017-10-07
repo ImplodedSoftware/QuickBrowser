@@ -26,7 +26,7 @@ namespace QuickBrowse
             _quickBrowseWindow.Close();
         }
 
-        public string Name => "Quick browse";
+        public string Name => "Quick browser";
         public string Author => "Mikael Stalvik";
     }
 }

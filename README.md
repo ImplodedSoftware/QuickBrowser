@@ -1,5 +1,7 @@
 # MiniPlayer
 
+![Quick Browser](http://www.helium.fm/assets/img/quickbrowser.png)
+
 This repo contains c# code for the Helium 13 general purpose plugin, Quick browser.
 The code requires Visual Studio 2015 Update 3 or later.
 
