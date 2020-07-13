@@ -1,6 +1,8 @@
 ﻿using System;
 using ImGeneralPluginEngine;
+using ImGeneralPluginEngine.Abstractions;
 using NeonScripting;
+using NeonScripting.Models;
 
 namespace QuickBrowse
 {
@@ -16,7 +18,7 @@ namespace QuickBrowse
             _quickBrowseWindow.Show();
         }
 
-        public void OnEvent(NeonEventTypes eventType)
+        public void OnEvent(NeonScriptEventTypes eventType)
         {
             // not used
         }

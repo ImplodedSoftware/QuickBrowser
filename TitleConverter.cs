@@ -3,6 +3,7 @@ using System.Globalization;
 using System.Text;
 using System.Windows.Data;
 using NeonScripting;
+using NeonScripting.Models;
 
 namespace QuickBrowse
 {

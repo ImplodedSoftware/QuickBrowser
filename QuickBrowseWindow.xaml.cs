@@ -6,6 +6,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Threading;
 using NeonScripting;
+using NeonScripting.Models;
 
 namespace QuickBrowse
 {

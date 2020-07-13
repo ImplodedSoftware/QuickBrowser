@@ -6,6 +6,7 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Windows.Controls;
 using NeonScripting;
+using NeonScripting.Models;
 using QuickBrowse.Properties;
 
 namespace QuickBrowse
